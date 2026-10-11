@@ -115,7 +115,6 @@ HOW IT WORKS
 SECURITY
 
 - API keys are stored using environment variables.
-- The .env file must be excluded from GitHub.
 - Gemini API requests are handled by the backend.
 - Activity information submitted for analysis is processed through the Gemini API.
 
